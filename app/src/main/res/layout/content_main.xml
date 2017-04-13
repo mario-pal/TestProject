@@ -14,6 +14,6 @@
         android:text="Hola, Mundo"
         android:textSize="30dp"
 
-        android:textColor="#000000" />
+        android:textColor="#FF0000" />
 
 </LinearLayout>
